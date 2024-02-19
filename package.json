@@ -1,8 +1,6 @@
 {
   "name": "simple-animate-presence",
-  "author": {
-    "name": "JoaoVitorOli"
-  },
+  "author": "JoaoVitorOli",
   "description": "A simple animation to make your componets a little bit more smooth",
   "private": true,
   "version": "0.0.0",
@@ -36,5 +34,20 @@
     "typescript": "^5.2.2",
     "vite": "^5.1.0",
     "vite-plugin-dts": "^3.7.2"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoVitorOli/simple-animate-presence.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoaoVitorOli/simple-animate-presence/issues"
+  },
+  "homepage": "https://github.com/JoaoVitorOli/simple-animate-presence#readme"
 }

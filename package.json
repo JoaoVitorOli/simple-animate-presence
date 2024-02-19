@@ -2,7 +2,6 @@
   "name": "simple-animate-presence",
   "author": "JoaoVitorOli",
   "description": "A simple animation to make your componets a little bit more smooth",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
